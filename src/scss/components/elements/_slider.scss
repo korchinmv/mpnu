@@ -1,0 +1,71 @@
+.slider {
+
+  &__inner {
+    position: relative;
+  }
+
+  &__link {
+    &:hover {
+      .slider__item-title {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__item {}
+
+  &__item-img {
+    margin-bottom: 15px;
+  }
+
+  &__item-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    @media screen and (width <=768px) {
+      font-size: 18px;
+    }
+  }
+
+  &__item-text {
+    font-size: 18px;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    /* Ограничиваем текст 4 строками */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    @media screen and (width <=768px) {
+      font-size: 16px;
+    }
+  }
+
+  &__controls-prev,
+  &__controls-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+    @media screen and (width <=1220px) {
+      display: none;
+    }
+  }
+
+  &__controls-prev {
+    left: -40px;
+  }
+
+  &__controls-next {
+    right: -40px;
+  }
+
+  &__controls-img {
+    width: 40px;
+    height: 40px;
+  }
+}
