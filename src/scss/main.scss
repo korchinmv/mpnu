@@ -1,8 +1,17 @@
-// базовые подключения
 @use "vars";
 @use "mixins";
 @use "fonts";
 @use "settings";
 
 
-@use "components/elements/slider"
+@use "components/elements/slider";
+@use "components/elements/subtitle";
+@use "components/elements/table";
+
+@use "components/ui/breadcrumbs";
+@use "components/ui/button-blue";
+@use "components/ui/button-primary";
+
+@use "components/sections/head-page";
+
+@use "components/pages/services-detail";
