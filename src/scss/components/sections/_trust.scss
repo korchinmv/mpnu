@@ -1,0 +1,31 @@
+.trust {
+  &__title {
+    margin-bottom: 48px;
+  }
+
+  &__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 57px 64px;
+  }
+
+  &__item {
+    max-width: 616px;
+  }
+
+  &__item-num {
+    margin-bottom: 32px;
+    font-weight: 700;
+    font-size: 72px;
+    color: var(--red-color);
+  }
+
+  &__item-title {
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 8px;
+  }
+}

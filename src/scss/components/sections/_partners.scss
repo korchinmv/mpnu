@@ -1,0 +1,32 @@
+.partners {
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 77px;
+  }
+
+  &__controls-button-prev,
+  &__controls-button-next {
+    flex-shrink: 0;
+  }
+
+  &__slider {
+    &.swiper {
+      width: 1085px;
+    }
+  }
+
+  &__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+}

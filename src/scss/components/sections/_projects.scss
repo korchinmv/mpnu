@@ -1,0 +1,18 @@
+.projects {
+  background-image: url('../img/services/slider.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px 0;
+
+  &__head {
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__title {
+    margin-right: 10px;
+  }
+}

@@ -10,8 +10,15 @@
 
 @use "components/ui/breadcrumbs";
 @use "components/ui/button-blue";
+@use "components/ui/controls";
 @use "components/ui/button-primary";
 
 @use "components/sections/head-page";
+@use "components/sections/projects";
+@use "components/sections/other-services";
+@use "components/sections/trust";
+@use "components/sections/partners";
 
 @use "components/pages/services-detail";
+
+@use "components/cards/project-card";
