@@ -10,6 +10,7 @@
 
 @use "components/ui/breadcrumbs";
 @use "components/ui/button-blue";
+@use "components/ui/button-red";
 @use "components/ui/controls";
 @use "components/ui/button-primary";
 
@@ -20,5 +21,6 @@
 @use "components/sections/partners";
 
 @use "components/pages/services-detail";
+@use "components/pages/services";
 
 @use "components/cards/project-card";

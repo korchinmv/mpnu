@@ -1,0 +1,18 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4" y="27" width="10" height="4" rx="1" stroke="#B70000" stroke-width="2"/>
+<rect x="6" y="31" width="6" height="16" stroke="#B70000" stroke-width="2"/>
+<rect x="4" y="47" width="10" height="4" rx="1" stroke="#B70000" stroke-width="2"/>
+<rect x="17" y="24" width="10" height="4" rx="1" transform="rotate(-90 17 24)" stroke="#B70000" stroke-width="2"/>
+<rect x="21" y="22" width="6" height="11" transform="rotate(-90 21 22)" stroke="#B70000" stroke-width="2"/>
+<rect x="32" y="24" width="10" height="4" rx="1" transform="rotate(-90 32 24)" stroke="#B70000" stroke-width="2"/>
+<path d="M17 15C15.4241 15 13.8637 15.3104 12.4078 15.9134C10.9519 16.5165 9.62902 17.4004 8.51472 18.5147C7.40041 19.629 6.5165 20.9519 5.91345 22.4078C5.31039 23.8637 5 25.4241 5 27" stroke="#B70000" stroke-width="2"/>
+<path d="M17 22C16.3434 22 15.6932 22.1293 15.0866 22.3806C14.48 22.6319 13.9288 23.0002 13.4645 23.4645C13.0002 23.9288 12.6319 24.48 12.3806 25.0866C12.1293 25.6932 12 26.3434 12 27" stroke="#B70000" stroke-width="2"/>
+<rect x="52" y="29" width="10" height="4" rx="1" transform="rotate(180 52 29)" stroke="#B70000" stroke-width="2"/>
+<rect x="50" y="25" width="6" height="16" transform="rotate(180 50 25)" stroke="#B70000" stroke-width="2"/>
+<rect x="52" y="9" width="10" height="4" rx="1" transform="rotate(180 52 9)" stroke="#B70000" stroke-width="2"/>
+<rect x="39" y="32" width="10" height="4" rx="1" transform="rotate(90 39 32)" stroke="#B70000" stroke-width="2"/>
+<rect x="35" y="34" width="6" height="11" transform="rotate(90 35 34)" stroke="#B70000" stroke-width="2"/>
+<rect x="24" y="32" width="10" height="4" rx="1" transform="rotate(90 24 32)" stroke="#B70000" stroke-width="2"/>
+<path d="M39 41C40.5759 41 42.1363 40.6896 43.5922 40.0866C45.0481 39.4835 46.371 38.5996 47.4853 37.4853C48.5996 36.371 49.4835 35.0481 50.0866 33.5922C50.6896 32.1363 51 30.5759 51 29" stroke="#B70000" stroke-width="2"/>
+<path d="M39 34C39.6566 34 40.3068 33.8707 40.9134 33.6194C41.52 33.3681 42.0712 32.9998 42.5355 32.5355C42.9998 32.0712 43.3681 31.52 43.6194 30.9134C43.8707 30.3068 44 29.6566 44 29" stroke="#B70000" stroke-width="2"/>
+</svg>
